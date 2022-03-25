@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iguoliveira&theme=dark" alt="iguoliveira" /></p>
 
-![Snake animation](https://github.com/iguoliveira/iguoliveira/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=iguoliveira&repo=iguoliveira&theme=react)](https://github.com/iguoliveira/iguoliveira)
