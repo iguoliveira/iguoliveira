@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Bosch**
 
-- 🌱 I’m currently learning **Java, JavaScript, React, Node**
+- 🌱 I’m currently learning **JavaScript, React and React Native**
 
 - ⚡ Fun fact **When i get frustrated, i play competitive games to get more frustrated**
 
