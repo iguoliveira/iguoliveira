@@ -1,5 +1,4 @@
-<h1 align="center">Hello There, Igor Oliveira here</h1>
-<h3 align="center">A developer student who's in love with web!</h3>
+<h1 align="center">Hello There, Igor Oliveira here!</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iguoliveira&label=Visitors&color=e63dbb&style=flat-square" alt="iguoliveira" /> </p>
