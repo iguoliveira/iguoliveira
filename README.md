@@ -1,6 +1,6 @@
 <h1 align="center">Hello There, Igor Oliveira here</h1>
 <h3 align="center">A developer student who's in love with web!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
 
 <p align="left"> <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="iguoliveira" /> </p>
 
