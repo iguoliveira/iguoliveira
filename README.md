@@ -1,16 +1,14 @@
 <div>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=iguoliveira&label=Visitors&color=e63dbb&style=flat-square" alt="iguoliveira" /></p>
-  <h1 align="left">Hello There, Igor Oliveira here!</h1>
+  <h1 align="center">Hello There, Igor Oliveira here!</h1>
   <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/170/170116.gif">
 </div>
 
 <div>
-  <h3 align="left">Connect with me:</h3>
-  <p align="left"><a href="https://linkedin.com/in/igor-rodrigues-022595207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-rodrigues-022595207" height="30" width="40" /></a></p>
+  <p align="left"><a href="https://linkedin.com/in/igor-rodrigues-022595207" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
 
 <div>
-  <h3 align="left">Languages and Tools</h3>
   <p align="left">
   <div>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -37,7 +35,7 @@
   </p>
 </div>
 
-<br>
+<br><br><br><br><br>
 
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iguoliveira&theme=dark" alt="iguoliveira" /></p>
