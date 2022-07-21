@@ -39,10 +39,10 @@
 
 <br>
 
-<div>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iguoliveira&theme=dark" alt="iguoliveira" /></p>
+<div align="center">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iguoliveira&theme=dark" alt="iguoliveira" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=iguoliveira&show_icons=true&theme=dark&locale=en" alt="iguoliveira" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iguoliveira&show_icons=true&theme=dark&locale=en&layout=compact" alt="iguoliveira" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iguoliveira&show_icons=true&theme=dark&locale=en" alt="iguoliveira" /></p>
 </div>
 
 ![Snake animation](https://github.com/iguoliveira/iguoliveira/blob/output/github-contribution-grid-snake.svg)
