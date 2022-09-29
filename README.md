@@ -7,20 +7,20 @@
 
 
 ```javascript
-    const data = {
-      name: "Igor Oliveira Rodrigues",
-      pronouns: ["He", "Him"],
-      game: "Dark Souls 3",
-      tech: {
-        programming: ['JS', 'TS'],
-        frontend: ['React', 'Vue', 'Svelte', 'Tailwindcss', 'Sass'],
-        backend: ['Node', 'Nest', 'Express', 'Django']
-      },
-      language: {
-        portuguese: true,
-        english: true,
-      }
-    }
+const data = {
+  name: "Igor Oliveira Rodrigues",
+  pronouns: ["He", "Him"],
+  game: "Dark Souls 3",
+  tech: {
+    programming: ['JS', 'TS'],
+    frontend: ['React', 'Vue', 'Svelte', 'Tailwindcss', 'Sass'],
+    backend: ['Node', 'Nest', 'Express', 'Django']
+  },
+  language: {
+    portuguese: true,
+    english: true,
+  }
+}
 ```
 
 <div>
