@@ -1,14 +1,34 @@
 <div>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=iguoliveira&label=Visitors&color=e63dbb&style=flat-square" alt="iguoliveira" /></p>
-  <h1 align="center">Hello There, Igor Oliveira here!</h1>
+  <h1 align="center">Hello There!</h1>
   <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/170/170116.gif">
 </div>
+
+
+
+```javascript
+    const data = {
+      name: "Igor Oliveira Rodrigues",
+      pronouns: ["He", "Him"],
+      game: "Dark Souls 3",
+      tech: {
+        programming: ['JS', 'TS'],
+        frontend: ['React', 'Vue', 'Svelte', 'Tailwindcss', 'Sass'],
+        backend: ['Node', 'Nest', 'Express', 'Django']
+      },
+      language: {
+        portuguese: true,
+        english: true,
+      }
+    }
+```
 
 <div>
   <p align="left"><a href="https://linkedin.com/in/igor-rodrigues-022595207" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
 
 <div>
+  <h2>Skills</h2>
   <p align="left">
   <div>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
