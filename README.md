@@ -13,7 +13,7 @@ const data = {
   game: "Dark Souls 3",
   tech: {
     programming: ['JS', 'TS'],
-    frontend: ['React', 'Vue', 'Sass', 'Tailwindcss'],
+    frontend: ['React', 'Sass', 'Tailwindcss'],
     backend: ['Node', 'Nest', 'Express']
   },
   language: {
