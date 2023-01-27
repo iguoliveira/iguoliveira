@@ -14,7 +14,7 @@ const data = {
   tech: {
     programming: ['JS', 'TS'],
     frontend: ['React', 'Sass', 'Tailwindcss'],
-    backend: ['Node', 'Nest', 'Express']
+    backend: ['Node', 'Express']
   },
   language: {
     portuguese: true,
