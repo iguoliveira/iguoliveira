@@ -1,7 +1,7 @@
 <div>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=iguoliveira&label=Visitors&color=e63dbb&style=flat-square" alt="iguoliveira" /></p>
   <h1 align="center">Hello There!</h1>
-  <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/170/170116.gif">
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4jwxPJu9lE4AAAAC/makima-chainsawman.gif">
 </div>
 
 
@@ -12,9 +12,9 @@ const data = {
   pronouns: ["He", "Him"],
   game: "Dark Souls 3",
   tech: {
-    programming: ['JS', 'TS'],
-    frontend: ['React', 'Sass', 'Tailwindcss'],
-    backend: ['Node', 'Express']
+    programming: ["JS", "TS"],
+    frontend: ["React", "Sass", "Tailwindcss"],
+    backend: ["Node", "Express"]
   },
   language: {
     portuguese: true,
@@ -24,7 +24,7 @@ const data = {
 ```
 
 <div>
-  <p align="left"><a href="https://linkedin.com/in/igor-rodrigues-022595207" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+  <p align="left"><a href="https://www.linkedin.com/in/igor-oliveira-022595207/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
 
 <div>
