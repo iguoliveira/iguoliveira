@@ -1,3 +1,9 @@
+<div>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=iguoliveira&label=Visitors&color=e63dbb&style=flat-square" alt="iguoliveira" /></p>
+  <h1 align="center">Hello There!</h1>
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4jwxPJu9lE4AAAAC/makima-chainsawman.gif">
+</div>
+
 ```javascript
 const data = {
   name: "Igor Oliveira Rodrigues",
@@ -16,13 +22,7 @@ const data = {
 ```
 
 <div>
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=iguoliveira&label=Visitors&color=e63dbb&style=flat-square" alt="iguoliveira" /></p>
-  <h1 align="center">Hello There!</h1>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4jwxPJu9lE4AAAAC/makima-chainsawman.gif">
-</div>
-
-<div>
-  <p align="left"><a href="https://www.linkedin.com/in/iguoliveira/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+  <p align="right"><a href="https://www.linkedin.com/in/iguoliveira/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
 
 <div align="center">
