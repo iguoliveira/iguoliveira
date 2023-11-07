@@ -24,7 +24,7 @@ const data = {
 ```
 
 <div>
-  <p align="left"><a href="https://www.linkedin.com/in/igor-oliveira-022595207/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+  <p align="left"><a href="https://www.linkedin.com/in/iguoliveira/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%23e63dbb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
 
 <div>
