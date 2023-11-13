@@ -9,5 +9,3 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=iguoliveira&show_icons=true&theme=tokyonight"&locale=en" alt="iguoliveira" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iguoliveira&show_icons=true&theme=tokyonight"&locale=en" alt="iguoliveira" /></p>
 </div>
-
-![Snake animation](https://github.com/iguoliveira/iguoliveira/blob/output/github-contribution-grid-snake.svg)
